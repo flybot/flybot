@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [eBogholderen.dk](https://www.ebogholderen.dk/)
 
-- 🌱 I’m currently learning **Django & React**
+- 🌱 I’m currently learning **Go & Vue 3**
 
 - 📫 How to reach me **flybots@gmail.com**
 
